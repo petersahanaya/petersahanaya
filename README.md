@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I am a Front-end Developer with a passion for crea
 - Git
 
 ## Projects
-- E-Commerce App(https://p3tr.netlify.app) - A brief description of the project
-- Social Media-App(https://p3social.vercel.app) - A brief description of the project
-- Personal Portfolio(https://p3trr.netlify.app) - A brief description of the project
+- E-Commerce App(https://p3tr.netlify.app) 
+- Social Media-App(https://p3social.vercel.app)  
+- Personal Portfolio(https://p3trr.netlify.app) 
 
 ## Education
 - SMA Kristen YPKPM Ambon
