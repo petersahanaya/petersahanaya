@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @petersahanaya
-- 😾 i Really like to learn new thing's and a fast learner
-- 🤘 I’m currently learning backend with express js
-- 😼 feel free to chat
-- 🤝 How to reach me in my instagram @p3tr_shny
+Welcome to my GitHub profile! I am a Front-end Developer with a passion for creating visually appealing and user-friendly websites and applications. I have experience in building responsive and accessible web pages using HTML, CSS, JavaScript, and various front-end frameworks such as React, Next Js.
 
-<!---
-petersahanaya/petersahanaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Typescript
+- React
+- Next Js
+- Redux-Toolkit
+- SWR
+- Web design principles
+- Usability
+- Web performance optimization
+- SEO
+- Git
+
+## Projects
+- E-Commerce App(https://p3tr.netlify.app) - A brief description of the project
+- Social Media-App(https://p3social.vercel.app) - A brief description of the project
+- Personal Portfolio(https://p3trr.netlify.app) - A brief description of the project
+
+## Education
+- SMA Kristen YPKPM Ambon
+
+## Contact
+- Email: petersahanaya09@gmail.com
+- LinkedIn: (https://linkedin.com/in/peter-sahanaya)
+- Website: P3tr(https://p3trr.netlify.app)
+
+Thank you for visiting my profile. I am always looking for new opportunities to work on interesting projects and to improve my skills. Feel free to contact me if you have any questions or if you would like to collaborate on a project.
