@@ -16,16 +16,16 @@ Welcome to my GitHub profile! I am a Front-end Developer with a passion for crea
 - Git
 
 ## Projects
-- E-Commerce App(https://p3tr.netlify.app) 
-- Social Media-App(https://p3social.vercel.app)  
-- Personal Portfolio(https://p3trr.netlify.app) 
+- E-Commerce App - https://p3tr.netlify.app
+- Social Media-App - https://p3social.vercel.app
+- Personal Portfolio - https://p3trr.netlify.app
 
 ## Education
 - SMA Kristen YPKPM Ambon
 
 ## Contact
 - Email: petersahanaya09@gmail.com
-- LinkedIn: (https://linkedin.com/in/peter-sahanaya)
-- Website: P3tr(https://p3trr.netlify.app)
+- LinkedIn: https://linkedin.com/in/peter-sahanaya
+- Website: https://p3trr.netlify.app
 
 Thank you for visiting my profile. I am always looking for new opportunities to work on interesting projects and to improve my skills. Feel free to contact me if you have any questions or if you would like to collaborate on a project.
