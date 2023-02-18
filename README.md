@@ -3,6 +3,7 @@ Welcome to my GitHub profile! I am a Front-end Developer with a passion for crea
 ## Skills
 - HTML
 - CSS
+- Go
 - JavaScript
 - Typescript
 - React
