@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a Front-end Developer with a passion for crea
 - Git
 
 ## Projects
-- E-Commerce App - https://p3tr.netlify.app
+- E-Commerce App - https://p3commerce.vercel.app
 - Social Media-App - https://p3social.vercel.app
 - Personal Portfolio - https://p3trr.netlify.app
 
