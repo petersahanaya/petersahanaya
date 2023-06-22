@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a Front-end Developer with a passion for crea
 ## Projects
 - E-Commerce App - https://p3das.vercel.app
 - Social Media-App - https://p3social.vercel.app
-- Personal Portfolio - https://p6shny.netlify.app
+- Personal Portfolio - https://p6shny.vercel.app
 
 ## Education
 - SMA Kristen YPKPM Ambon
