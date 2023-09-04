@@ -14,6 +14,7 @@ Next Js · React Js · Typescript · Node Js · Tailwind Css · Redux · Zustand
 ## 📌 Latest Project 
 - [eCommerce Web Application](https://p3das.vercel.app)
 - [Personal Web Profile](https://p6shny.vercel.app)
+- [Music Streaming Web Application](https://p3music.vercel.app)
 
 
 
